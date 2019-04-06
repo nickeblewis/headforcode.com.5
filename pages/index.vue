@@ -69,7 +69,7 @@
           <p>
             Web developer with around
             <strong>20 years</strong> of well-rounded experience with a HND in
-            the field of <strong>Software Engineerig</strong>, extensive
+            the field of <strong>Software Engineering</strong>, extensive
             knowledge of modern Web techniques and love for
             <strong>Coffee & Cake</strong>. Working as a contractor/freelancer
             for numerous companies over the past ten years. Currently in a
