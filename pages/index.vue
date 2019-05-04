@@ -945,7 +945,7 @@
 
                 <div class="field is-grouped has-text-centered">
                   <div class="control">
-                    <button type="submit" class="button is-link is-large">
+                    <button class="button is-link is-large">
                       <span class="icon">
                         <i class="fas fa-envelope"></i>
                       </span>
